@@ -1,0 +1,10 @@
+var firstname = "Andrew";
+var lastname = "Braunsdorf";
+var bill1 = 12.17;
+var bill2 = 15.85;
+var bill3 = 22.43;
+var bill4 = 8.79;
+var totalbill = bill1 + bill2 + bill3 + bill4 ;
+
+console.log("Good Evening", firstname, lastname, "your total bill is", totalbill + "!");
+
